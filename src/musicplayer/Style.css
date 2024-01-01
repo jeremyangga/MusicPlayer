@@ -1,0 +1,54 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 24, 2019, 12:28:19 AM
+    Author     : ACER
+*/
+
+.btnPause {-fx-background-image: url("/musicplayer/icons8-pause-64.png");
+           -fx-background-size: 35px;
+           -fx-background-color: transparent}
+
+.btnPlay {-fx-background-image: url("/musicplayer/icons8-play-64.png");
+          -fx-background-size: 35px;
+          -fx-background-color: transparent}
+
+.btnStop { -fx-background-image: url("/musicplayer/icons8-stop-64.png");
+           -fx-background-size: 35px;
+           -fx-background-color: transparent}
+
+.btnNext { -fx-background-image: url("/musicplayer/icons8-next-64.png");
+           -fx-background-size: 35px;
+           -fx-background-color: transparent}
+
+.btnPrevious { -fx-background-image: url("/musicplayer/icons8-previous-64.png");
+               -fx-background-size: 35px;
+               -fx-background-color: transparent}
+
+.btnRepeat { -fx-background-image: url("/musicplayer/icons8-repeat-64.png");
+             -fx-background-size: 35px;
+             -fx-background-color: transparent}
+
+.btnShuffle { -fx-background-image: url("/musicplayer/icons8-shuffle-64.png");
+              -fx-background-size: 35px;
+              -fx-background-color: transparent}
+
+.btnPlaylist {-fx-background-image: url("/musicplayer/icons8-music-folder-64.png");
+              -fx-background-size: 35px;
+              -fx-background-color: transparent}
+
+.btnBack{-fx-background-image: url("/musicplayer/icons8-left-64.png");
+              -fx-background-size: 35px;
+              -fx-background-color: transparent}
+.pindah{-fx-background-image: url("/musicplayer/icons8-playlist-64.png");
+              -fx-background-size: 35px;
+              -fx-background-color: transparent}
+.tambahp{-fx-background-image: url("/musicplayer/icons8-plus-math-64.png");
+              -fx-background-size: 35px;
+              -fx-background-color: transparent}
+.btnHapus{-fx-background-image: url("/musicplayer/icons8-remove-64.png");
+              -fx-background-size: 35px;
+              -fx-background-color: transparent}
